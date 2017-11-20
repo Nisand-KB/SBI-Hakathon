@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#02B7FF</color>
+    <color name="colorPrimaryDark">#08AEF4</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="sbiblue">#08AEF4</color>
+    <color name="transparentblue">#87CEFA</color>
+    <color name="transparent_button_pressed">#44444444</color>
+    <color name="transparent_button_focused">#44666666</color>
+    <color name="white">#ffffff</color>
+</resources>

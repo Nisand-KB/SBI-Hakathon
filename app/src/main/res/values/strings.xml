@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SBI</string>
+    <string name="splash_tag_line_begining">Facial Recognition</string>
+    <string name="headingpageinstructions">Instructions</string>
+    <string name="secondpage">
+        This app consists of Face Recognition Interface which will find the match with the user face with his uploaded image.
+        Register first with your face.
+    </string>
+    <string name="thirdpage">
+        Registration consists of few details.\nAccount number should be 11characters long.
+        Image should be maximum of 50kb.
+    </string>
+    <string name="features">
+        Live Detection:\n
+        \tLiveliness detection is done based on the real time image/video capture.
+        \n\tResponse for this is also given with success for a perfect match.
+    </string>
+    <string name="camera">Take Picture</string>
+    <string name="upload">Upload image</string>
+    <string name="titlestring">SBI HACKATHON\nTeam: Shirk\n Facial Recognition Security</string>
+    <string name="typingtext">SBI Hackathon Facial Recognition Platform</string>
+    <string name="selectmenu">select from sdcard</string>
+    <string name="takepicmenu">Take a picture</string>
+    <string name="upload_instruction">Click the above to \nupload image</string>
+    <string name="endpoint">https://westcentralus.api.cognitive.microsoft.com/face/v1.0</string>
+    <string name="subscription_key">ab7fc63d603140fba0a4c81f104b89b0</string>
+</resources>
